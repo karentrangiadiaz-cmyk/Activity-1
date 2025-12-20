@@ -40,7 +40,7 @@ body {
     margin: 12px 0;
     border: 1px solid rgba(255, 255, 255, 0.1);
     border-radius: 10px;
-    /* Parchment style input */
+   
     background: #F5F0E1; 
     color: #3C2F2F;
     font-size: 15px;
@@ -53,7 +53,7 @@ body {
     box-shadow: 0 0 0 3px rgba(111, 78, 55, 0.4);
 }
 
-/* FORGOT PASSWORD */
+
 .forgot-container {
     text-align: right;
     margin-top: 5px;
@@ -61,7 +61,7 @@ body {
 }
 
 .forgot-password {
-    /* Tan/Khaki accent */
+  
     color: #D7CCC8; 
     text-decoration: none;
     font-size: 13px;
@@ -76,9 +76,10 @@ body {
 .btn-login {
     width: 100%;
     padding: 14px;
-    /* Action Color: Coffee Brown */
+   
     background-color: #6F4E37; 
     color: #FFFFFF;
     border: none;
 
 }
+
